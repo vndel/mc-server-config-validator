@@ -1,0 +1,4 @@
+# Example only: pin values supported by your deployed server version.
+network:
+  view-distance: 8
+  simulation-distance: 6
